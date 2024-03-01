@@ -14,3 +14,5 @@ ketik trus jalanin line dibawah ini di terminal lu :
 - php artisan key:generate
 - php artisan migrate
 - php artisan serve
+
+##
